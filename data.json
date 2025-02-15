@@ -1,0 +1,16 @@
+[
+    {
+        "id": "CERT123",
+        "name": "John Doe",
+        "position": "Software Intern",
+        "startDate": "2024-06-01",
+        "endDate": "2024-07-31"
+    },
+    {
+        "id": "CERT456",
+        "name": "Jane Smith",
+        "position": "Cloud Intern",
+        "startDate": "2024-05-15",
+        "endDate": "2024-07-15"
+    }
+]
